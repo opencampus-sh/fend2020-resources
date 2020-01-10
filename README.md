@@ -1,5 +1,17 @@
 # Useful Resources for Web Development
 
+* [Links](#links)
+         * [Help Sites](#help-sites)
+         * [Blogs](#blogs)
+         * [Accessibility](#accessibility)
+         * [Hosting](#hosting)
+      * [Free Online Courses](#free-online-courses)
+      * [Podcasts](#podcasts)
+         * [Awesome developer Podcasts](#awesome-developer-podcasts)
+      * [Twitter Profiles](#twitter-profiles)
+      * [Hardware recommendations](#hardware-recommendations)
+         * [Laptop (January 2020)](#laptop-january-2020)
+
 ## Links
 
 
@@ -216,4 +228,48 @@ This is an incomplete list of great people from the web community to follow for 
 | Harry Roberts            | https://twitter.com/csswizardry     |
 | Anselm Hannemann         | https://twitter.com/helloanselm     |
 | Bastian Allgeier         | https://twitter.com/bastianallgeier |
+
+
+
+## Hardware recommendations
+
+### Laptop (January 2020)
+
+Here are a few recommendations should you consider buying a new laptop for your development journey in the near future.
+
+You should consider investing more than seams reasonable as this could be your main investment for all of your development work for years.
+
+My personal recommendation would always be a MacBook Pro as most of the web community uses macOS based development workflows and many apps are only available on macOS. Currently the MacBook Pro 16 inch models offer the greatest bang for the buck as many of the issues of the previous models have been fixed including the bad keyboards, missing escape key and overheating issues. 
+
+If you want a smaller, lighter and cheaper macOS based option I would recommend to wait till later in 2020 for Apple to maybe release an upgrade to the 13 inch model with the above issues fixed.
+
+[Link to Apple Store]([https://www.apple.com/de/shop/buy-mac/macbook-pro/16-zoll-space-grau-2,6-ghz-6%E2%80%91core-prozessor-512gb#](https://www.apple.com/de/shop/buy-mac/macbook-pro/16-zoll-space-grau-2,6-ghz-6‑core-prozessor-512gb#))
+
+Should you be still a student you can get massive discounts on https://www.matcampus.de/.
+
+Maybe a Mac is still way beyond what you can afford. Consider a Windows Laptop with at least the following specs:
+
+| Component | Recommended Spec                                             |
+| --------- | ------------------------------------------------------------ |
+| CPU       | min. 4-Core/8 threads CPU like AMD Ryzen 5/7 (3000 Series) or Intel Core i5, i7, i9 (Core i-10000 or Core-i-9000 Series) |
+| Memory    | min. 8GB (better 16GB or if you intend to edit videos: 32GB) |
+| SSD       | min. 512GB (better 1TB+)                                     |
+| GPU       | AMD Radeon Vega 8, AMD Radeon Pro 5300M, AMD Radeon Pro 5500M, Nvidia Cards or also Intel 655 integrated (may be slow on external 4k monitors so better choose one of the first options) |
+| Display   | at least 1920x1080 resolution with an IPS Panel (No TN Panel as the image quality is horrible) |
+| Features  | Webcam (at least 720p, better 1080p), At least one USB Type-C or Thunderbolt Port for modern peripherals |
+
+I would recommend to invest at least 500 Euros to get a configuration that has the following specs:
+
+| Component   | Hardware                 |
+| ----------- | ------------------------ |
+| Form Factor | 14 Inch or 15 Inch       |
+| CPU         | AMD Ryzen 3500U or 3700U |
+| Memory      | 8GB DDR4                 |
+| SSD         | 512GB                    |
+| GPU         | AMD Radeon Vega 8        |
+| Display     | 1920x1080 IPS            |
+
+Link to a price comparison with the needed filters for the above configuration set:
+
+[Click here to compare prices]([https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4%7E12823_8%7E12_8192%7E2377_17.9%7E2379_13%7E2991_480%7E6748_0.8%7E6748_23%7E6748_24%7E6748_25%7E6751_0.8%7E6751_25%7E6751_26%7E6752_Core+i-10000%7E6752_Core+i-9000%7E6752_zzx%7E6763_Ryzen+3000%7E69_Webcam%7E9_1920x1080](https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4~12823_8~12_8192~2377_17.9~2379_13~2991_480~6748_0.8~6748_23~6748_24~6748_25~6751_0.8~6751_25~6751_26~6752_Core+i-10000~6752_Core+i-9000~6752_zzx~6763_Ryzen+3000~69_Webcam~9_1920x1080))
 
