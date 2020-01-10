@@ -1,16 +1,16 @@
 # Useful Resources for Web Development
 
 * [Links](#links)
-         * [Help Sites](#help-sites)
-         * [Blogs](#blogs)
-         * [Accessibility](#accessibility)
-         * [Hosting](#hosting)
-      * [Free Online Courses](#free-online-courses)
-      * [Podcasts](#podcasts)
-         * [Awesome developer Podcasts](#awesome-developer-podcasts)
-      * [Twitter Profiles](#twitter-profiles)
-      * [Hardware recommendations](#hardware-recommendations)
-         * [Laptop (January 2020)](#laptop-january-2020)
+   * [Help Sites](#help-sites)
+   * [Blogs](#blogs)
+   * [Accessibility](#accessibility)
+   * [Hosting](#hosting)
+* [Free Online Courses](#free-online-courses)
+* [Podcasts](#podcasts)
+   * [Awesome developer Podcasts](#awesome-developer-podcasts)
+* [Twitter Profiles](#twitter-profiles)
+* [Hardware recommendations](#hardware-recommendations)
+   * [Laptop (January 2020)](#laptop-january-2020)
 
 ## Links
 
