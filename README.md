@@ -59,7 +59,7 @@
 | Link                                | Description                                                  |
 | ----------------------------------- | ------------------------------------------------------------ |
 | [Netlify](https://www.netlify.com/) | Amazing hosting company for static websites.                 |
-| [Zeit now](https://zeit.co/home)    | Super simple hosting for static websites of dynamic apps using serverless functions. |
+| [Zeit now](https://zeit.co/home)    | Super simple hosting for static websites or dynamic apps using serverless functions. |
 
 
 
