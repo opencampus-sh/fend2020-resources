@@ -239,7 +239,7 @@ Here are a few recommendations should you consider buying a new laptop for your 
 
 You should consider investing more than seams reasonable as this could be your main investment for all of your development work for years.
 
-My personal recommendation would always be a MacBook Pro as most of the web community uses macOS based development workflows and many apps are only available on macOS. Currently the MacBook Pro 16 inch models offer the greatest bang for the buck as many of the issues of the previous models have been fixed including the bad keyboards, missing escape key and overheating issues. 
+My personal recommendation would always be a MacBook Pro as most of the web community uses macOS based development workflows and many apps are only available on macOS. Currently the MacBook Pro 16 inch models offer the greatest bang for the buck as many of the issues of the previous models have been fixed including the bad keyboard, missing escape key and overheating issues. 
 
 If you want a smaller, lighter and cheaper macOS based option I would recommend to wait till later in 2020 for Apple to maybe release an upgrade to the 13 inch model with the above issues fixed.
 
