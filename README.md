@@ -23,6 +23,7 @@
 | [Stack Overflow](https://stackoverflow.com/)                 | Largest online community for developers worldwide.           |
 | [CSS-Tricks](https://css-tricks.com/)                        | Great resource for learning web development, especially CSS. |
 | [Scotch.io](https://scotch.io/)                              | Scotch.io has a lot of great tutorials on everything web development. |
+| [Spectrum](https://spectrum.chat/)                           | Many web development tools have their official communities on Spectrum. It is a Forum based tool owned by Github. |
 | [Reddit - Webdev](https://www.reddit.com/r/webdev/)          | Subreddit to ask question about all your web development concerns. |
 | [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/) | One of the best documentations for all web related technologies like HTML, CSS and JavaScript. |
 | [Kent C. Dodds' Blog](https://kentcdodds.com/blog/)          | Kent C. Dodds writes amazingly researched blog articles mostly about JavaScript. |
