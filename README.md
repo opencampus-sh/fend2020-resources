@@ -5,12 +5,23 @@
    * [Blogs](#blogs)
    * [Accessibility](#accessibility)
    * [Hosting](#hosting)
+* [Chat communities](#chat-communities)
 * [Free Online Courses](#free-online-courses)
 * [Podcasts](#podcasts)
    * [Awesome developer Podcasts](#awesome-developer-podcasts)
+* [Helpful Apps](#helpful-apps)
+   * [Web or Cross Platform](#web-or-cross-platform)
+   * [macOS](#macos)
+   * [Windows](#windows)
+   * [Linux](#linux)
+* [Browser Extensions](#browser-extensions)
+   * [Chrome](#chrome)
+   * [Firefox](#firefox)
+* [VS Code Extensions](#vs-code-extensions)
 * [Twitter Profiles](#twitter-profiles)
 * [Hardware recommendations](#hardware-recommendations)
    * [Laptop (January 2020)](#laptop-january-2020)
+* [Local Meetups](#local-meetups)
 
 ## Links
 
@@ -57,10 +68,27 @@
 
 ### Hosting
 
-| Link                                | Description                                                  |
-| ----------------------------------- | ------------------------------------------------------------ |
-| [Netlify](https://www.netlify.com/) | Amazing hosting company for static websites.                 |
-| [Zeit now](https://zeit.co/home)    | Super simple hosting for static websites or dynamic apps using serverless functions. |
+| Link                                              | Description                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| [Netlify](https://www.netlify.com/)               | Amazing hosting company for static websites.                 |
+| [Zeit now](https://zeit.co/home)                  | Super simple hosting for static websites or dynamic apps using serverless functions. |
+| [Google Cloud Platform](https://cloud.google.com) | Google's suite of cloud hosting tools.                       |
+| [Amazon AWS](https://aws.amazon.com)              | Amazon's suite of cloud hosting tools.                       |
+| [Digital Ocean](https://m.do.co/c/670270a2c959)   | Cheap cloud hosting for servers and containers. (Affiliate link) |
+| [Sanity.io](https://www.sanity.io/syntax)         | Hosted structured content CMS service using React.js for your JAMstack websites. |
+
+
+
+## Chat communities
+
+| Name                 | Topic                | Chat Tool | Invite Link                           |
+| -------------------- | -------------------- | --------- | ------------------------------------- |
+| Reactiflux           | React.js             | Discord   | https://www.reactiflux.com/           |
+| Vue Land             | Vue.js               | Discord   | https://vue.land/                     |
+| Front-End Developers | Frontend Development | Discord   | https://frontenddevelopers.org/       |
+| Scotch.io Chat       | Web Development      | Slack     | https://scotch-slack.herokuapp.com/   |
+| WeLearnJS            | JavaScript           | Slack     | http://javascript-devs.herokuapp.com/ |
+| DevChat              | All Development      | Slack     | https://devchat.devolio.net/          |
 
 
 
@@ -98,6 +126,77 @@ Start listening to Podcasts early on to get inspired on a regular basis. Listen 
 | Real Talk JavaScript      | John Papa, Ward Bell, Dan Wahlin          | Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. Listen for practical insights and honest talk about the topics you are facing today, with Real Talk JavaScript. | https://realtalkjavascript.simplecast.com/      |
 | Shop Talk Show            | Dave Rupert, Chris Coyier                 | A live podcast about front end web design and UX.            | https://shoptalkshow.com/                       |
 | JavaScript Jabber         |                                           | Weekly podcast discussion about Javascript on the front and back ends. Also discuss programming practices, coding environments, and the communities related to the technology. | https://devchat.tv/js-jabber/                   |
+
+## Helpful Apps
+
+### Web or Cross Platform
+
+| Name                                                         | Category                        | Description                                                  | Type                                                 |
+| ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| [Notion](https://www.notion.so/?r=068514afd8734238a0ee86456d95ffae) | Note Taking, Project Management | Notion is a note taking app on steroids to organize your work tasks and personal life. You can start free and later decide to pick a premium plan with a higher content limit. There are many great tutorials on YouTube on how to set up your Notion account. Desktop apps and mobile apps are also available. (affiliate link) | Subscription wiith free tier                         |
+| [Bitwarden](https://bitwarden.com/)                          | Password Management             | Cheap cloud password management solution with apps for all platforms. | Subscription                                         |
+| [1Password](https://1password.com/de/)                       | Password Management             | Another great password management solution that also has apps for all major platforms. A buy once use forever license is also available if you do not want to host your passwords in the 1Password cloud. | Subscription or Buy once use forever for offline use |
+| [KeyPass](https://keepass.info/)                             | Password Management             | Free password management solution that requires more manual setup to get it up and running properly on all platforms. You also have to backup your password database manually. Use KeyPassX app on Android. | Desktop  -Free                                       |
+| [Sizzy](https://sizzy.co/)                                   | Development                     | Sizzy is a browser targeted at developers. You can view the page you are currently developing in multiple device sizes with the appropriate user agent at the same time. Improvements are constantly added. | Desktop - Subscription                               |
+
+### 
+
+### macOS
+
+| Name                                                         | Category               | Description                                                  | Type               |
+| ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ | ------------------ |
+| [Pixelsnap](https://getpixelsnap.com/)                       | Development Helper     | A great tool to measure distances and sizes of all items currently on screen. Helps greatly to get your designer's layouts ready in a pixel perfect manner if needed. | Desktop - Paid     |
+| [Mouseless](https://mouseless.app/)                          | Learning               | Mouseless helps you remeber the shortcuts for various macOS apps and gives you way to interactively train them. | Desktop - Paid     |
+| [Dash](https://kapeli.com/dash)                              | Development Helper     | Dash is a comprehensive database of all documentation related to programming. It offers plugins for various code editors to directly search Dash's documentations from there. Just mark a line of code, hit a shortcut and see the desired docs for that particular function. | Desktop - Paid     |
+| [Alfred](https://www.alfredapp.com/)                         | Productivity           | A spotlight replacement that enables you to control many aspects of your OS with your keyboard and automates a lot of workflows. | Desktop - Paid     |
+| [Rocket](https://emojipedia.org/rocket/)                     | Emoji Picker           | Rocket is a global emoji picker to use emojis in apps that don't have their own emoji picker. | Desktop - Free     |
+| [Rectangle](https://rectangleapp.com/)                       | Window Manager         | Rectangle helps you organize your windows by using neat little shortcuts. For example you want your editor side by side with your browser on an external monitor: there's a shortcut for that. | Desktop - Free     |
+| [Better Touch Tool](https://folivora.ai/)                    | Input Tool             | BTT allows you to change the behaviour of your keyboard, mouse, trackpad and touchbar on a Mac. Change anything you could imagine. | Desktop - Paid     |
+| [Amphetamine](https://apps.apple.com/de/app/amphetamine/id937984704?mt=12) | Desktop Helper         | Keeps your Mac awake on certain triggers without having to mess with the energy settings. | Desktop - Free     |
+| [DaisyDisk](https://daisydiskapp.com/)                       | Disk Space Measurement | Running out of disk space? Don't know why? DaisyDisk will let you know exactly what files are taking up which amount and let you delete theses files in a comfortable manner. | Desktop - Freemium |
+|                                                              |                        |                                                              |                    |
+
+
+
+### Windows
+
+| Name | Description | Type | Link |
+| ---- | ----------- | ---- | ---- |
+|      |             |      |      |
+
+
+
+### Linux
+
+| Name | Description | Type | Link |
+| ---- | ----------- | ---- | ---- |
+|      |             |      |      |
+
+
+
+## Browser Extensions
+
+### Chrome
+
+| Name | Description | Link |
+| ---- | ----------- | ---- |
+|      |             |      |
+
+
+
+### Firefox
+
+| Name | Description | Link |
+| ---- | ----------- | ---- |
+|      |             |      |
+
+
+
+## VS Code Extensions
+
+| Name | Description | Link |
+| ---- | ----------- | ---- |
+|      |             |      |
 
 
 
@@ -273,4 +372,18 @@ I would recommend to invest at least 500 Euros to get a configuration that has t
 Link to a price comparison with the needed filters for the above configuration set:
 
 [Click here to compare prices]([https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4%7E12823_8%7E12_8192%7E2377_17.9%7E2379_13%7E2991_480%7E6748_0.8%7E6748_23%7E6748_24%7E6748_25%7E6751_0.8%7E6751_25%7E6751_26%7E6752_Core+i-10000%7E6752_Core+i-9000%7E6752_zzx%7E6763_Ryzen+3000%7E69_Webcam%7E9_1920x1080](https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4~12823_8~12_8192~2377_17.9~2379_13~2991_480~6748_0.8~6748_23~6748_24~6748_25~6751_0.8~6751_25~6751_26~6752_Core+i-10000~6752_Core+i-9000~6752_zzx~6763_Ryzen+3000~69_Webcam~9_1920x1080))
+
+
+
+## Local Meetups
+
+Meetups are the best place to meet other developers and to do some networking. Get inspired by awesome talks or give one yourself. Don't be afraid because you think that you don't know enough yet. Leave your comfort zone and maybe your next job opportunity is just around the corner.
+
+| Name                                                         | Topic                 | Ort     |
+| ------------------------------------------------------------ | --------------------- | ------- |
+| [HH.js](https://www.meetup.com/de-DE/hamburg-js/)            | JavaScript            | Hamburg |
+| [Nordic Coding](https://www.meetup.com/de-DE/Nordic-Coding/) | Various coding topics | Kiel    |
+| [GraphQL Hamburg](https://www.meetup.com/de-DE/GraphQL-Hamburg/) | GraphQL               | Hamburg |
+| [Förde DevOps](https://www.meetup.com/de-DE/DevOps-Kiel/)    | DevOps                | Kiel    |
+| [Hamburg React.js Meetup](https://www.meetup.com/de-DE/Hamburg-React-js-Meetup) | React.js, JavaScript  | Hamburg |
 
