@@ -343,7 +343,7 @@ My personal recommendation would always be a MacBook Pro as most of the web comm
 
 If you want a smaller, lighter and cheaper macOS based option I would recommend to wait till later in 2020 for Apple to maybe release an upgrade to the 13 inch model with the above issues fixed.
 
-[Link to Apple Store]([https://www.apple.com/de/shop/buy-mac/macbook-pro/16-zoll-space-grau-2,6-ghz-6%E2%80%91core-prozessor-512gb#](https://www.apple.com/de/shop/buy-mac/macbook-pro/16-zoll-space-grau-2,6-ghz-6‑core-prozessor-512gb#))
+[Link to Apple Store](https://www.apple.com/de/shop/buy-mac/macbook-pro/16-zoll-space-grau-2,6-ghz-6‑core-prozessor-512gb#)
 
 Should you be still a student you can get massive discounts on https://www.matcampus.de/.
 
@@ -371,7 +371,7 @@ I would recommend to invest at least 500 Euros to get a configuration that has t
 
 Link to a price comparison with the needed filters for the above configuration set:
 
-[Click here to compare prices]([https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4%7E12823_8%7E12_8192%7E2377_17.9%7E2379_13%7E2991_480%7E6748_0.8%7E6748_23%7E6748_24%7E6748_25%7E6751_0.8%7E6751_25%7E6751_26%7E6752_Core+i-10000%7E6752_Core+i-9000%7E6752_zzx%7E6763_Ryzen+3000%7E69_Webcam%7E9_1920x1080](https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4~12823_8~12_8192~2377_17.9~2379_13~2991_480~6748_0.8~6748_23~6748_24~6748_25~6751_0.8~6751_25~6751_26~6752_Core+i-10000~6752_Core+i-9000~6752_zzx~6763_Ryzen+3000~69_Webcam~9_1920x1080))
+[Click here to compare prices](https://geizhals.eu/?cat=nb&v=e&hloc=at&hloc=de&sort=p&xf=12822_4~12823_8~12_8192~2377_17.9~2379_13~2991_480~6748_0.8~6748_23~6748_24~6748_25~6751_0.8~6751_25~6751_26~6752_Core+i-10000~6752_Core+i-9000~6752_zzx~6763_Ryzen+3000~69_Webcam~9_1920x1080)
 
 
 
