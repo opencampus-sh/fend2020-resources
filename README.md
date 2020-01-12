@@ -106,7 +106,7 @@ This is a list of available online courses that you can use to learn various top
 
 ## Podcasts
 
-Start listening to Podcasts early on to get inspired on a regular basis. Listen while doing your dishes or your laundry, on the commute to work or simply while going for a walk. There a great Apps out there like [Pocket Casts](https://www.pocketcasts.com/), [Stitcher](https://www.stitcher.com/) or [Himalaya](https://www.himalaya.com/gb). You can also simply use Spotify or Apple Podcasts, but I would highly recommend that you check out Pocket Casts for a great listening experience.
+Start listening to Podcasts early on to get inspired on a regular basis. Listen while doing your dishes or your laundry, on the commute to work or simply while going for a walk. There are great Apps out there like [Pocket Casts](https://www.pocketcasts.com/), [Stitcher](https://www.stitcher.com/) or [Himalaya](https://www.himalaya.com/gb). You can also simply use Spotify or Apple Podcasts, but I would highly recommend that you check out Pocket Casts for a great listening experience.
 
 ### Awesome developer Podcasts
 
