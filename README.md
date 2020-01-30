@@ -53,6 +53,7 @@
 | [Kent C. Dodds](https://kentcdodds.com/blog/)                | Kent C. Dodds writes amazingly researched blog articles mostly about JavaScript. |
 | [Sara Soueidan](https://www.sarasoueidan.com/blog/)          | Great articles on CSS and SVG stuff.                         |
 | [Smashing Articles](https://www.smashingmagazine.com/articles/) | Blog by Smashing Magazine.                                   |
+| [overreacted.io](https://overreacted.io/) | Blog by Dan Abramov (React Core Team, Created Redux).                                   |
 
 
 
@@ -101,6 +102,7 @@ This is a list of available online courses that you can use to learn various top
 | [JavaScript 30](https://javascript30.com/) | JavaScript  | Wes Bos    |
 | [CSS Grid](https://cssgrid.io/)            | CSS Grid    | Wes Bos    |
 | [What The Flexbox?!](http://flexbox.io/)   | CSS Flexbox | Wes Bos    |
+| [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)   | Accessibility | Udacity    |
 
 
 
@@ -381,6 +383,7 @@ Meetups are the best place to meet other developers and to do some networking. G
 
 | Name                                                         | Topic                 | Ort     |
 | ------------------------------------------------------------ | --------------------- | ------- |
+| [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/Kiel-React-Native-Meetup) | React.js, JavaScript  | Kiel |
 | [HH.js](https://www.meetup.com/de-DE/hamburg-js/)            | JavaScript            | Hamburg |
 | [Nordic Coding](https://www.meetup.com/de-DE/Nordic-Coding/) | Various coding topics | Kiel    |
 | [GraphQL Hamburg](https://www.meetup.com/de-DE/GraphQL-Hamburg/) | GraphQL               | Hamburg |
