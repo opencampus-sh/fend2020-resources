@@ -102,6 +102,7 @@ This is a list of available online courses that you can use to learn various top
 | [JavaScript 30](https://javascript30.com/) | JavaScript  | Wes Bos    |
 | [CSS Grid](https://cssgrid.io/)            | CSS Grid    | Wes Bos    |
 | [What The Flexbox?!](http://flexbox.io/)   | CSS Flexbox | Wes Bos    |
+| [Command Line Power User](https://commandlinepoweruser.com/)   | macOS command line | Wes Bos    |
 | [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891)   | Accessibility | Udacity    |
 
 
